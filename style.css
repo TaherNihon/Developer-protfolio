@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -25,3 +26,8 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;}
+    .dream-big{
+        background-image: url(ef.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
